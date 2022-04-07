@@ -1,0 +1,6 @@
+{
+    "name": "friendsofshopware/redis-meta",
+    "type": "metapackage",
+    "license": "MIT",
+    "description": "Redis Configuration Meta Package"
+}
